@@ -3,6 +3,7 @@
     "ticker": "AAPL",
     "target": 250.0,
     "direction": "above",
-    "triggered": false
+    "triggered": true,
+    "triggered_price": 272.53
   }
 ]
