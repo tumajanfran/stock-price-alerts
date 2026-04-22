@@ -9,6 +9,7 @@
     "ticker": "AMZN",
     "target": 200.0,
     "direction": "above",
-    "triggered": false
+    "triggered": true,
+    "triggered_price": 255.36
   }
 ]
