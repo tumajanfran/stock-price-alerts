@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "ticker": "RYCEY",
+    "target": 17.0,
+    "direction": "above",
+    "triggered": false
+  }
+]
