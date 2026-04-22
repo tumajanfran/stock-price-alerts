@@ -4,5 +4,11 @@
     "target": 17.0,
     "direction": "above",
     "triggered": false
+  },
+  {
+    "ticker": "AMZN",
+    "target": 200.0,
+    "direction": "above",
+    "triggered": false
   }
 ]
