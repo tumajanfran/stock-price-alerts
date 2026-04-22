@@ -1,3 +1,8 @@
 [
-  {"ticker": "AAPL", "target": 250, "direction": "above"}
+  {
+    "ticker": "AAPL",
+    "target": 250.0,
+    "direction": "above",
+    "triggered": false
+  }
 ]
