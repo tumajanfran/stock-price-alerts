@@ -17,7 +17,7 @@ def _secret(key, default=""):
 
 REPO = _secret("GITHUB_REPO", "tumajanfran/stock-price-alerts")
 TOKEN = _secret("GITHUB_TOKEN", "")
-BRANCH = "main"
+BRANCH = _secret("GITHUB_BRANCH", "master")
 PATH = "alerts.json"
 
 API = f"https://api.github.com/repos/{REPO}/contents/{PATH}"
