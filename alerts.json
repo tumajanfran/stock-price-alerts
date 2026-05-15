@@ -3,6 +3,7 @@
     "ticker": "RYCEY",
     "target": 15.5,
     "direction": "below",
-    "triggered": false
+    "triggered": true,
+    "triggered_price": 15.38
   }
 ]
